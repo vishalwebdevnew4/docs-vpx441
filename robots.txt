@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-cv9jsd.hartawin.online/sitemap.xml
